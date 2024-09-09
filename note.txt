@@ -28,3 +28,39 @@ AND, OR
 
 %.2f        Akurasi dua angka dibelakang koma
 %.3f        Akurasi tiga angka dibelakang koma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOT ( A AND B )
+A = 1 = true
+B = 0 = false
+
+NOT ( true AND false )
+NOT ( false )
+true
